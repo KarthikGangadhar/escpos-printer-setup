@@ -1,0 +1,22 @@
+{
+  "name": "escpos-printer-setup",
+  "version": "1.0.0",
+  "description": "This is a node application to establish connection and  print files",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikGangadhar/escpos-printer-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarthikGangadhar/escpos-printer-setup/issues"
+  },
+  "homepage": "https://github.com/KarthikGangadhar/escpos-printer-setup#readme",
+  "dependencies": {
+    "escpos": "^2.5.2"
+  }
+}
